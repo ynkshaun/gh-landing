@@ -12,7 +12,7 @@
  
  🔭 I’m currently working for **White Hat Gaming**
  
- 🌱 I’m currently learning **Docker & AWS**
+ 🌱 I’m currently perfecting **Kubernetes & AWS**
 
 💬 Ask me about **Datadog, Terraform or Python**
 
